@@ -9,7 +9,7 @@
 </ul>
 <li>目部：
 <ul>
-<li>直的本字，从<img src="https://camo.githubusercontent.com/0766b8f434d5798d7bf45cf298aefc9bdfd41a147ca4a4660b8db5580a16816c/68747470733a2f2f696d672e7a6469632e6e65742f736f6e672f636e2f32303043412e737667" />从十从目（這也許是字體的問題，需要兩個不同的字）</li>
+<li>直的本字，从﹂从十从目（這也許是字體的問題，需要兩個不同的字）</li>
 </ul>
 
 </li>
