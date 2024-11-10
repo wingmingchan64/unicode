@@ -6,30 +6,30 @@
 $統一碼字_粵音=array(
 // CJK Unified Ideographs Range: 4E00–9FFF
 '一'=>array('jat1'),
-'丁'=>array('ding1','zaang1','zang1'),
+'丁'=>array('ding1','zaang1','zang1'), // zaang1, zang1, 伐木聲
 '丂'=>array('haau2'),
 '七'=>array('cat1'),
 '丄'=>array('tau4'),
-'万'=>array('mak6','maan6'),
+'万'=>array('maan6','mak6'), // 万俟:mak6
 '丈'=>array('zoeng6'),
-'三'=>array('saam1','saam3','saam6'),
-'上'=>array('soeng6','soeng5','saang3'),
+'三'=>array('saam1','saam3'),
+'上'=>array('soeng6','soeng5'),
 '下'=>array('haa6','haa5','haa2'),
-'丌'=>array('gei1'),
-'不'=>array('bat1','fau2','fau4','pei1','dan2','fu1'),
-'与'=>array('jyu5','jyu6','jyu4'),
+'丌'=>array('gei1'), // 下基
+'不'=>array('bat1','fau2','fau4','pei1','dan2',), // pei1, 通丕
+'与'=>array('jyu5','jyu4','jyu6'),
 '丏'=>array('min5'),
 '丐'=>array('koi3'),
 '丑'=>array('cau2'),
-'且'=>array('ce2','zeoi1','cou4','ceoi6'),
-'丕'=>array('pei1','pei2',),
+'且'=>array('ce2','zeoi1','ceoi6','cou4'), // ceoi6 恭敬貌;cou4 往
+'丕'=>array('pei1'),
 '世'=>array('sai3'),
-'丘'=>array('jau1','mau5'),
+'丘'=>array('jau1'),
 '丙'=>array('bing2'),
-'丞'=>array('sing4','cing2'),
-'丟'=>array('diu1','diu6'),
+'丞'=>array('sing4','cing2'), // cing2 通拯
+'丟'=>array('diu1'),
+'丢'=>array('diu1'),
 '両'=>array('loeng5','loeng6','loeng2'),
-'丢'=>array('diu1','diu6'),
 '两'=>array('loeng2','loeng6','loeng5'),
 '並'=>array('bing6','bing3'),
 '丨'=>array('kwan2','gwan2'),
@@ -12109,7 +12109,7 @@ $統一碼字_粵音=array(
 '隔'=>array('gik1','gaak3','gak1'),
 '隕'=>array('jyun4','wan6','wan5'),
 '隖'=>array('wu1','wu2'),
-'隗'=>array('ngai4','kwai4','gwai3','faai3','wai5','ngai5','wai4','fui1','wui5'),
+'隗'=>array('ngai5','ngai4','kwai4','gwai3','faai3','wai5','wai4','fui1','wui5'),
 '隘'=>array('ai3','ngai3','ak1','ngaai3','ngak1','aai3'),
 '隙'=>array('gwik1','kwik1'),
 '際'=>array('zai3'),
@@ -15485,9 +15485,8 @@ $統一碼字_粵音=array(
 
 
 
-// 手加的
+// 人手加的
 '𦧲'=>array('loe2'),
-'脧'=>array('zoe1'),
 '蚵'=>array('ho4'),
 '塭'=>array('wan1'),
 '鈽'=>array('bou1'),
