@@ -1,0 +1,2 @@
+PHP unicode reference
+https://www.php.net/manual/en/ref.mbstring.php
